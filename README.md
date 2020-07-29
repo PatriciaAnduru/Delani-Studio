@@ -14,7 +14,7 @@ This is a website for Delani Studio showing its services and a form to reach out
 * Open project on code editor
  * -$code .
 * Run the project on live server
-## Want to contribute? Great!
+## Want to contribute?
 To fix a bug or enhance an existing module, follow these steps:
 * Fork the repo
 * Create a new branch (git checkout -b improve-feature)
